@@ -6,7 +6,7 @@ Primero, descarga el archivo con el botón verde de la derecha (**Clone or downl
 
 Consulta el documento **Mision_02.docx** para ver los detalles.
 
-Si cumples esta misión, podrás ganar hasta 1250 puntos de HP.
+Si cumples esta misión, podrás **ganar** hasta **1250 puntos de HP**.
 
 Las **primeras 10 personas** que completen esta misión obtendrán **100 XP**.
 
